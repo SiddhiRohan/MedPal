@@ -13,7 +13,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-[Demo Video](#-demo) • [Features](#-key-features) • [Installation](#-installation) • [Architecture](#-architecture) • [Contributing](#-contributing)
+[Demo Video](#-demo) • [Features](#-key-features) • [Installation](#-installation) • [Architecture](#-architecture) 
 
 </div>
 
