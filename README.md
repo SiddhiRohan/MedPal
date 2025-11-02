@@ -37,6 +37,38 @@ MedPal 2.0 operates on a **Dual-Intelligence Architecture** powered by Google Ge
 
 ---
 
+## 🌟 Impact & Vision
+
+### The Problem We're Solving
+
+Medical education has a wellness crisis. Students sacrifice mental health for grades, creating a cycle of burnout that persists into professional practice. **Over 50% of medical students** report symptoms of burnout, yet support systems remain siloed—academic tools ignore emotions, counseling services ignore coursework.
+
+### Our Vision
+
+**MedPal 2.0 proves that AI can make education more human.**
+
+We're not replacing human connection or professional mental health support—we're filling the gap in daily student life where compassionate guidance is needed most. By demonstrating that productivity and wellness aren't trade-offs but interdependent forces, we're building a blueprint for the next generation of educational technology.
+
+### Long-Term Goals
+
+1. **Reduce burnout rates** in medical education by 30% within partner institutions
+2. **Normalize rest** as productive through data-driven balance advocacy
+3. **Provide early intervention** for at-risk students through predictive analytics
+4. **Scale globally** to support students in resource-limited educational systems
+
+---
+
+## 🙏 Acknowledgments
+
+- **Google Gemini Team** – For providing powerful AI capabilities that make dual-intelligence systems possible
+- **Anthropic** – For inspiration on building empathetic AI systems
+- **Medical Students Worldwide** – For inspiring this project through their resilience and dedication
+- **Google Developer Student Club @UMD** – For creating space for rapid innovation
+- **Open Source Community** – For the tools that made this possible
+
+
+---
+
 ## 🚨 The Problem
 
 Medical students and high-intensity learners face a critical paradox:
@@ -360,37 +392,6 @@ Achieving sub-2-second response times while maintaining output quality meant opt
 
 **🎭 Emotional Nuance Detection**  
 Distinguishing healthy stress from harmful overwhelm required incorporating user history rather than relying on single-message sentiment analysis.
-
----
-
-## 🌟 Impact & Vision
-
-### The Problem We're Solving
-
-Medical education has a wellness crisis. Students sacrifice mental health for grades, creating a cycle of burnout that persists into professional practice. **Over 50% of medical students** report symptoms of burnout, yet support systems remain siloed—academic tools ignore emotions, counseling services ignore coursework.
-
-### Our Vision
-
-**MedPal 2.0 proves that AI can make education more human.**
-
-We're not replacing human connection or professional mental health support—we're filling the gap in daily student life where compassionate guidance is needed most. By demonstrating that productivity and wellness aren't trade-offs but interdependent forces, we're building a blueprint for the next generation of educational technology.
-
-### Long-Term Goals
-
-1. **Reduce burnout rates** in medical education by 30% within partner institutions
-2. **Normalize rest** as productive through data-driven balance advocacy
-3. **Provide early intervention** for at-risk students through predictive analytics
-4. **Scale globally** to support students in resource-limited educational systems
-
----
-
-## 🙏 Acknowledgments
-
-- **Google Gemini Team** – For providing powerful AI capabilities that make dual-intelligence systems possible
-- **Anthropic** – For inspiration on building empathetic AI systems
-- **Medical Students Worldwide** – For inspiring this project through their resilience and dedication
-- **Google Developer Student Club @UMD** – For creating space for rapid innovation
-- **Open Source Community** – For the tools that made this possible
 
 ---
 
