@@ -2,7 +2,7 @@
 
 ![MedPal Banner](./assets/Banner.png)
 
-# MedPal 2.0 🧠💙
+# MedPal 🧠💙
 
 ### *Your Mind's Best Study Partner*
 
@@ -21,19 +21,19 @@
 
 ## 📖 Overview
 
-MedPal 2.0 is an AI-powered wellness and academic companion designed specifically for students in high-pressure fields like medicine. Built during a 4-hour hackathon sprint, it reimagines student support by treating academic success and mental wellness as inseparable.
+MedPal is an AI-powered wellness and academic companion designed specifically for students in high-pressure fields like medicine. Built during a 8-hour hackathon sprint, it reimagines student support by treating academic success and mental wellness as inseparable.
 
-Unlike traditional study apps that push productivity at all costs, MedPal 2.0 recognizes when you're overwhelmed. It doesn't just generate study schedules—it understands context. Preparing for a biochemistry exam after a 12-hour clinical shift? The system adapts, building in rest periods and offering genuine encouragement when stress levels rise.
+Unlike traditional study apps that push productivity at all costs, MedPal recognizes when you're overwhelmed. It doesn't just generate study schedules, it understands context. Preparing for a biochemistry exam after a 12-hour clinical shift? The system adapts, building in rest periods and offering genuine encouragement when stress levels rise.
 
 ### 🎯 The Core Philosophy
 
-> "Peak performance isn't about working harder—it's about working smarter while feeling better."
+> "Peak performance isn't about working harder; it's about working smarter while feeling better."
 
 MedPal 2.0 operates on a **Dual-Intelligence Architecture** powered by Google Gemini, featuring two specialized AI engines that collaborate seamlessly:
 
-- **🎓 Academic Engine** – Structures study plans, summarizes notes, manages workloads
-- **💚 Wellness Engine** – Detects emotional tone, offers empathy-driven responses, suggests self-care
-- **🔄 Meta-Agent Coordinator** – Intelligently routes queries and shares context between engines
+- **Academic Engine** – Structures study plans, summarizes notes, manages workloads
+- **Wellness Engine** – Detects emotional tone, offers empathy-driven responses, suggests self-care
+- **Meta-Agent Coordinator** – Intelligently routes queries and shares context between engines
 
 ---
 
@@ -49,13 +49,13 @@ Medical students and high-intensity learners face a critical paradox:
 
 **The result:** Exhaustion, reduced motivation, poor retention, and emotional burnout.
 
-What students need isn't more discipline—it's **intelligent support** that knows when to push forward and when to step back.
+What students need isn't more discipline, it's **intelligent support** that knows when to push forward and when to step back.
 
 ---
 
 ## 💡 Our Solution
 
-MedPal 2.0 bridges the gap between productivity and wellness through context-aware AI that treats your mind and your mindset with equal importance.
+MedPal bridges the gap between productivity and wellness through context-aware AI that treats your mind and your mindset with equal importance.
 
 ### How It Works
 
@@ -81,30 +81,30 @@ Wellness Engine: [Validates your exhaustion, suggests a 5-minute grounding
 
 ## ✨ Key Features
 
-### 🎓 Academic Intelligence
+### Academic Intelligence
 - **Adaptive Study Planning** – Schedules that account for exam deadlines, topic complexity, and your energy
 - **Smart Summarization** – Condenses lengthy notes into digestible review materials
 - **Spaced Repetition** – Optimizes review timing based on memory science
 - **Context-Aware Scheduling** – Integrates with your clinical shifts, classes, and commitments
 
-### 💚 Emotional Intelligence
+### Emotional Intelligence
 - **Tone Analysis** – Detects stress, exhaustion, or overwhelm through natural language
 - **Empathetic Responses** – Validates feelings without toxic positivity
 - **Micro Self-Care Actions** – Suggests quick, actionable wellness practices (5-min breathing, hydration reminders)
 - **Fatigue Detection** – Flags when you're pushing too hard and recommends breaks
 
-### 🔄 Meta-Agent Coordination
+### Meta-Agent Coordination
 - **Intelligent Query Routing** – Automatically determines Academic vs. Wellness mode
 - **Cross-Engine Context Sharing** – Poor sleep data influences study load; completed milestones trigger encouragement
 - **Balance Monitoring** – Tracks the interplay between productivity and well-being
 
-### 📊 Unified Dashboard
+### Unified Dashboard
 - **Balance Score** – Visual metric combining study completion rate with mood trends
 - **Mood Visualization** – Interactive Plotly graphs tracking emotional patterns over time
 - **Achievement Timeline** – Celebrates milestones and progress
 - **Wellness Alerts** – Flags when balance tips toward burnout
 
-### 📝 Daily Reflections
+### Daily Reflections
 - **End-of-Day Summaries** – Gemini-generated insights on what you achieved and how you felt
 - **Pattern Recognition** – Identifies what study conditions correlate with better moods
 - **Growth Tracking** – Shows improvement in both academic and emotional resilience
@@ -114,16 +114,16 @@ Wellness Engine: [Validates your exhaustion, suggests a 5-minute grounding
 ## 🏗️ Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                      MedPal 2.0 UI                          │
-│            (Streamlit Frontend Interface)                   │
-│                                                             │
+┌──────────────────────────────────────────────────────────┐
+│                      MedPal 2.0 UI                       │
+│            (Streamlit Frontend Interface)                │
+│                                                          │
 │  ┌─────────────┐  ┌──────────────┐  ┌──────────────┐     │
 │  │    Chat     │  │  Dashboard   │  │   Planner    │     │
 │  │  Interface  │  │  (Balance    │  │  (Calendar)  │     │
 │  │             │  │   Metrics)   │  │              │     │
 │  └─────────────┘  └──────────────┘  └──────────────┘     │
-└────────────────────────┬────────────────────────────────────┘
+└────────────────────────┬─────────────────────────────────┘
                          │
                          ▼
          ┌───────────────────────────────────┐
@@ -188,7 +188,7 @@ Wellness Engine: [Validates your exhaustion, suggests a 5-minute grounding
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/medpal-2.0.git
+git clone https://github.com/SiddhiRohan/MedPal
 cd medpal-2.0
 ```
 
@@ -343,84 +343,12 @@ You're on track. One focused day beats three exhausted ones."
 
 ---
 
-## 🗺️ Roadmap
+## 🏆 Hackathon Info
 
-### Phase 1: Foundation ✅ (Completed)
-- [x] Dual-intelligence architecture
-- [x] Chat interface with mode switching
-- [x] Balance dashboard
-- [x] Context memory system
-- [x] Daily reflections
+**Built during:** GDSC @ UMD Gemini Hack Night  
+**Timeline:** 8-hour sprint  
+**Team Size:** 2
 
-### Phase 2: Enhanced Intelligence (Q2 2025)
-- [ ] Voice integration for hands-free interaction
-- [ ] Google Calendar sync for automatic scheduling
-- [ ] Enhanced prompt engineering for nuanced tone detection
-- [ ] Multi-language support (Spanish, Mandarin, Hindi)
-
-### Phase 3: Collaborative Features (Q3 2025)
-- [ ] Team wellness mode for study groups
-- [ ] Shared study plan templates
-- [ ] Peer support matching based on schedules
-- [ ] Group balance metrics
-
-### Phase 4: Ecosystem Integration (Q4 2025)
-- [ ] Wearable device integration (Fitbit, Apple Watch)
-- [ ] Learning Management System (LMS) plugins
-- [ ] Institutional dashboard for student wellness tracking
-- [ ] API for third-party integrations
-
-### Phase 5: Scale & Intelligence (2026)
-- [ ] Predictive burnout analytics
-- [ ] Personalized learning style adaptation
-- [ ] Cloud deployment with enterprise security
-- [ ] Mobile app (iOS/Android)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions that align with MedPal's mission of balancing academic excellence with mental wellness!
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Contribution Guidelines
-
-- **Code Quality**: Follow PEP 8 for Python code
-- **Documentation**: Update README and docstrings for new features
-- **Testing**: Include unit tests for new functionality
-- **Empathy First**: Ensure wellness features remain genuinely supportive, not performative
-
-### Areas We Need Help With
-
-- 🎨 UI/UX improvements for accessibility
-- 🌐 Translation and localization
-- 📊 Data visualization enhancements
-- 🧪 Comprehensive testing suite
-- 📱 Mobile app development
-
----
-
-## 🏆 Hackathon Journey
-
-**Built during:** BitNBuild Hackathon 2025  
-**Timeline:** 4-hour sprint  
-**Team Size:** [Your team size]
-
-### Build Timeline
-
-| Hour | Focus | Outcome |
-|------|-------|---------|
-| **0-1** | Infrastructure & API | ✅ Gemini integration, Flask routing |
-| **1-2** | Dual-Engine Logic | ✅ Prompt templates, routing mechanism |
-| **2-3** | Frontend Development | ✅ Streamlit UI, chat + dashboard |
-| **3-4** | Polish & Testing | ✅ Data persistence, reflections, QA |
 
 ### Challenges Overcome
 
@@ -432,20 +360,6 @@ Achieving sub-2-second response times while maintaining output quality meant opt
 
 **🎭 Emotional Nuance Detection**  
 Distinguishing healthy stress from harmful overwhelm required incorporating user history rather than relying on single-message sentiment analysis.
-
----
-
-## 📚 Documentation
-
-### For Users
-- [User Guide](./docs/USER_GUIDE.md) – Getting started with MedPal
-- [FAQ](./docs/FAQ.md) – Common questions answered
-- [Best Practices](./docs/BEST_PRACTICES.md) – Maximizing your balance
-
-### For Developers
-- [API Documentation](./docs/API.md) – Backend endpoints reference
-- [Prompt Engineering Guide](./docs/PROMPTS.md) – How engines are structured
-- [Contributing Guide](./CONTRIBUTING.md) – Development setup
 
 ---
 
@@ -470,36 +384,13 @@ We're not replacing human connection or professional mental health support—we'
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Google Gemini Team** – For providing powerful AI capabilities that make dual-intelligence systems possible
 - **Anthropic** – For inspiration on building empathetic AI systems
 - **Medical Students Worldwide** – For inspiring this project through their resilience and dedication
-- **BitNBuild Hackathon** – For creating space for rapid innovation
+- **Google Developer Student Club @UMD** – For creating space for rapid innovation
 - **Open Source Community** – For the tools that made this possible
-
----
-
-## 📞 Contact & Support
-
-- **Project Maintainer:** [Your Name]
-- **Email:** your.email@example.com
-- **GitHub Issues:** [Report bugs or request features](https://github.com/yourusername/medpal-2.0/issues)
-- **Discussions:** [Join the conversation](https://github.com/yourusername/medpal-2.0/discussions)
-
-### Support MedPal
-
-If MedPal has helped you balance your studies and well-being, consider:
-- ⭐ Starring this repository
-- 🐛 Reporting bugs or suggesting features
-- 🤝 Contributing code or documentation
-- 💬 Sharing your story with other students
 
 ---
 
@@ -507,10 +398,10 @@ If MedPal has helped you balance your studies and well-being, consider:
 
 ### Built with 💙 for students who deserve to thrive, not just survive
 
-**MedPal 2.0** – *Because studying smarter only works when you're feeling better*
+**MedPal** – *Because studying smarter only works when you're feeling better*
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/medpal-2.0?style=social)](https://github.com/yourusername/medpal-2.0)
-[![Follow on GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub Stars](https://img.shields.io/github/stars/yourusername/medpal-2.0?style=social)](https://github.com/SiddhiRohan/MedPal)
+[![Follow on GitHub](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/SiddhiRohan)
 
 [⬆ Back to Top](#medpal-20-)
 
