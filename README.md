@@ -132,7 +132,9 @@ Wellness Engine: [Validates your exhaustion, suggests a 5-minute grounding
 
 ---
 
-## 🏗️ Architecture
+## 🔧 Architecture
+
+<div align="center">
 
 ```
 ┌──────────────────────────────────────────────────────────┐
@@ -185,6 +187,7 @@ Wellness Engine: [Validates your exhaustion, suggests a 5-minute grounding
          └─────────────────────┘
 ```
 
+</div>
 ### Technology Stack
 
 | Layer | Technology | Purpose |
