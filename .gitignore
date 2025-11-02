@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+*.sqlite3
+
+# Mac junk
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Local data logs
+data/*.json
+backend/memory.json
+
+# Credentials
+*.pem
+*.key
+*.crt
+credentials.json
+service_account.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / dist
+dist/
+build/

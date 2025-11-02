@@ -1,0 +1,7 @@
+streamlit
+flask
+google-generativeai
+plotly
+pandas
+requests
+# gunicorn
