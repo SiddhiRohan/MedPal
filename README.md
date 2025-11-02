@@ -161,10 +161,7 @@ Wellness Engine: [Validates your exhaustion, suggests a 5-minute grounding
           │                │                 │
           ▼                ▼                 ▼
     ┌────────────────────────────────────────────┐
-    │         Flask Backend API Server           │
-    │            (http://127.0.0.1:5000)         │
-    │                                            │
-    │   POST /query → {"query", "mode"}          │
+    │         Flask Backend API Server           │   
     └────────────┬───────────────────────────────┘
                  │
     ┌────────────┴─────────────┐
