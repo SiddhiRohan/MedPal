@@ -312,7 +312,7 @@ MedPal/
 
 ### Video Walkthrough
 
-> 📹 **[Watch the full demo video](https://youtu.be/your-video-link)** *(60 seconds)*
+> 📹 **[Watch the full demo video](https://www.youtube.com/watch?v=EuIAz3eaCXo)** *(Demo walkthrough)*
 
 ### App Interface
 
@@ -488,19 +488,6 @@ Achieving sub-2-second response times while maintaining output quality meant opt
 - **Google Developer Student Club @UMD** – For hosting the hackathon and creating space for innovation
 - **Open Source Community** – For the tools that made this possible
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 Contact
-
-**Project Maintainers:** Anisha & Rohan  
-**GitHub:** [github.com/SiddhiRohan/MedPal](https://github.com/SiddhiRohan/MedPal)  
-**Issues:** [Report bugs or request features](https://github.com/SiddhiRohan/MedPal/issues)
 
 ---
 
